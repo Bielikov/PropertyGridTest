@@ -1,0 +1,12 @@
+E:\PropertyGridTest\PropertyGridTest\bin\Release\PropertyGridTest.exe.config
+E:\PropertyGridTest\PropertyGridTest\bin\Release\PropertyGridTest.exe
+E:\PropertyGridTest\PropertyGridTest\bin\Release\PropertyGridTest.pdb
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.csprojAssemblyReference.cache
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.MainForm.resources
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.Properties.Resources.resources
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.csproj.GenerateResource.cache
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.csproj.CoreCompileInputs.cache
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.exe
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.pdb
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.Editors.ForeignLangsControl.resources
+E:\PropertyGridTest\PropertyGridTest\obj\Release\PropertyGridTest.Editors.IPAddressEditorForm.resources
